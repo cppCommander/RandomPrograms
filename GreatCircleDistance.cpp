@@ -81,7 +81,7 @@ int main()
 
     double d = 6371 * b;
 
-    cout << "Distance on surface" << " " << d;
+    cout << "Distance on surface" << " " << d << " km";
 
 
     return 0;
